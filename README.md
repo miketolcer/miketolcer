@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mike</h1>
-<h3 align="center">A full stack developer in progress from Detroit</h3>
+<h3 align="center">A QA engineer in progress from Detroit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miketolcer&label=Profile%20views&color=0e75b6&style=flat" alt="miketolcer" /> </p>
 
