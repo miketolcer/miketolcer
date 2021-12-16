@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miketolcer&label=Profile%20views&color=0e75b6&style=flat" alt="miketolcer" /> </p>
 
-- 🔭 I’m currently working on **Capstone for devmountain**
+- 🔭 I’m currently working on **manual testing**
 
 - 📫 How to reach me **miketolcer@yahoo.com**
 
